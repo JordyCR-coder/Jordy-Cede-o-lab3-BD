@@ -1,0 +1,9 @@
+inventario\InventarioApplication.class
+inventario\model\Producto.class
+inventario\controller\BackupController.class
+inventario\model\Categoria.class
+inventario\service\BackupService.class
+inventario\repository\ProductoRepository.class
+inventario\controller\ProductoController.class
+inventario\dto\ProductoBackupDTO.class
+inventario\repository\CategoriaRepository.class
